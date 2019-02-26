@@ -7,3 +7,4 @@ int b=20;
 int c=a+b;
 syso(print C);
 }}
+  String s=Kanna;
